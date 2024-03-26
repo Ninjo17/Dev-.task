@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #beeef1;
+}
+
+header {
+    background-color: #ecb53e;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.features, .gallery {
+    
+    padding: 20px;
+}
+
+.features h2, .gallery h2 {
+    color: #5e47c2;
+}
+
+.features ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
